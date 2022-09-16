@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Eolico"
+        android:icon="@drawable/catavento"
+        android:id="@+id/eolico" />
+    <item android:title="Termico"
+        android:icon="@drawable/fogo"
+        android:id="@+id/termico" />
+    <item android:title="Hidrico"
+        android:icon="@drawable/gota"
+        android:id="@+id/hidrico" />
+</menu>
